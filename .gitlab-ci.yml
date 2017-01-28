@@ -1,0 +1,10 @@
+convert_png:
+  image: jrbeverly/alpine
+  stage: build
+  before-script:
+    - apk --no-cache add librsvg
+  script:
+    - sh .build/build.sh
+  artifacts:
+    paths:
+      - projects/
