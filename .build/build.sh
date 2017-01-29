@@ -1,13 +1,9 @@
 #!/bin/sh
 set -ex
 
-function_name () { 
-    rsvg-convert -h 480 icon.svg > icon-480.png
-}
-
-cd projects/
+cd src/
 for dir in *
 do
   test -d "$dir" || continue
-  ( cd "$dir/" && function_name )
+  ( cd "$dir/" && make )
 done
