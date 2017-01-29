@@ -1,4 +1,5 @@
 #!/bin/sh
+set -ex
 
 function_name () { 
     rsvg-convert -h 480 icon.svg > icon-480.png

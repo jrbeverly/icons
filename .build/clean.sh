@@ -1,4 +1,5 @@
 #!/bin/sh
+set -ex
 
 cd projects/
 for dir in *
