@@ -1,9 +1,10 @@
+image: alpine:latest
+
 convert_png:
-  image: jrbeverly/alpine
   stage: build
   script:
     - apk --no-cache add librsvg make
     - make build
   artifacts:
     paths:
-      - bin/
+      - bin/*
