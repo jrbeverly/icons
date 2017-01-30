@@ -1,6 +1,6 @@
 image: alpine:latest
 
-convert_png:
+convert:
   stage: build
   script:
     - apk --no-cache add librsvg make
