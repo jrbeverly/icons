@@ -5,6 +5,8 @@ convert:
   script:
     - apk --no-cache add librsvg make
     - make build
+  only:
+    - master
   artifacts:
     paths:
       - bin/*
