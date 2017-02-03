@@ -1,9 +1,7 @@
 <h1 align="center">
-  <a href="../" title="jrbeverly.icons readme">
-    <img alt="jrbeverly.icons" src="../raw/master/icon.png" width="200px" height="200px" />
-  </a>
+  <img alt="jrbeverly.icons" src="../raw/master/icon.png" width="200px" height="200px" />
   <br/>
-  jrbeverly.icons
+  <a href="../" title="jrbeverly.icons readme">jrbeverly.icons</a>
 </h1>
 
 <p align="center">
