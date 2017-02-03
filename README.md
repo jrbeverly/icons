@@ -1,5 +1,26 @@
-# jrbeverly.icons
-[![build status](/../badges/master/build.svg)](/../commits/master)[![Artifacts](https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000)](https://gitlab.com/api/v3/projects/2219058/builds/artifacts/master/download?job=convert)
+<h1 align="center">
+  <a href="../" title="jrbeverly.icons readme">
+    <img alt="jrbeverly.icons" src="../raw/master/icon.png" width="200px" height="200px" />
+  </a>
+  <br/>
+  jrbeverly.icons
+</h1>
+
+<p align="center">
+  A collection of scalable vector graphics (SVG) that define project and group icons.  
+</p>
+
+<div align="center">
+  <a href="/../commits/master">
+    <img alt="Build Status" src="/../badges/master/build.svg" />
+  </a>
+  <a href="../builds/artifacts/master/download?job=convert">
+    <img alt="Artifacts" src="https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000" />
+  </a>
+</div>
+<br />
+
+# Abstract
 
 A collection of scalable vector graphics (SVG) that define project and group icons.  
 
