@@ -24,7 +24,7 @@ A collection of scalable vector graphics (SVG) that define project and group ico
 
 ## GitLab CI
 
-This project's scalable vector graphics (SVG) are built by [GitLab CI][ci], following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+This project's scalable vector graphics (SVG) are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
 
 ```
 convert_png:
