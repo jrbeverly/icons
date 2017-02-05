@@ -2,7 +2,7 @@
 build:
 	sh .build/build.sh
 clean:
-	sh .build/clean.sh
+	rm -rf bin/*
 
 rebuild: clean build
 all: build
