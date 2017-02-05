@@ -10,6 +10,7 @@
 
 <div align="center">
   <a href="/../commits/master"><img alt="Build Status" src="/../badges/master/build.svg"/></a>
+  <a href="/../blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000" /></a>
   <a href="/../builds/artifacts/master/download?job=convert"><img alt="Artifacts" src="https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000"/></a>
 </div>
 <br/>
