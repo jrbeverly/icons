@@ -5,13 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg2"
    version="1.1"
-   viewBox="0 0 462.1106 466.79233"
-   height="466.79233pt"
-   width="462.1106pt">
+   id="svg2"
+   viewBox="0 0 885.82677 885.82677"
+   height="250mm"
+   width="250mm">
+  <defs
+     id="defs4" />
   <metadata
-     id="metadata45">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -22,113 +24,125 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs43" />
   <g
-     id="layer1"
-     transform="matrix(0.8,0,0,0.8,-124.81154,-253.09117)">
+     id="layer2">
     <g
-       transform="matrix(0.82735717,0,0,0.82735717,75.294576,89.05966)"
-       id="g4178-5">
+       transform="matrix(1.1361053,0,0,1.1361053,593.65903,-150.833)"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="g4295">
+      <circle
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:8.24756622;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4170"
+         cx="-131.6091"
+         cy="522.61084"
+         r="385.93585" />
+    </g>
+  </g>
+  <g
+     transform="translate(0,-166.53538)"
+     id="layer1">
+    <g
+       id="g4178-5"
+       transform="matrix(0.82735717,0,0,0.82735717,75.294576,89.05966)">
       <g
-         transform="matrix(0.87804193,0,0,0.87804193,-623.01942,153.12255)"
-         id="g4196-0">
+         id="g4196-0"
+         transform="matrix(0.87804193,0,0,0.87804193,-623.01942,153.12255)">
         <path
-           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#e2e8e7;fill-opacity:1"
+           id="path4182-5"
            d="m 820.67027,138.50461 0,28.39813 0,567.96242 0,28.39812 28.39812,0 738.35111,0 28.3982,0 0,-28.39812 0,-567.96242 0,-28.39813 -28.3982,0 -738.35111,0 -28.39812,0 z"
-           id="path4182-5" />
+           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#00abcd;fill-opacity:1"
+           id="path4180-5"
            d="m 877.46652,195.30086 681.55488,0 0,394.91137 -149.9776,-150.86501 -20.4111,-20.41116 -20.4112,20.41116 -108.2678,108.26783 -163.2892,-165.06408 -20.4112,-20.41115 -20.4111,20.41115 -178.37568,178.3757 0,-365.62581 z"
-           id="path4180-5" />
+           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#00abcd;fill-opacity:1" />
         <path
-           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1"
+           id="path4178-8"
            d="m 1445.4289,252.0971 c -31.3677,0 -56.7962,25.42853 -56.7962,56.79624 0,31.36771 25.4285,56.79624 56.7962,56.79624 31.3677,0 56.7962,-25.42853 56.7962,-56.79624 0,-31.36771 -25.4285,-56.79624 -56.7962,-56.79624 z"
-           id="path4178-8" />
+           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1" />
         <path
-           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1"
+           id="path4176-3"
            d="m 1076.2533,442.89698 260.9078,263.57006 -459.69458,0 0,-64.78321 198.78678,-198.78685 z"
-           id="path4176-3" />
+           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1" />
         <path
-           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1"
+           id="path4153-5-5"
            d="m 1388.6327,499.69322 170.3887,170.38873 0,36.38509 -141.1032,0 -118.0297,-118.91714 88.7442,-87.85668 z"
-           id="path4153-5-5" />
+           style="color:#000000;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;block-progression:tb;overflow:visible;fill:#f6c574;fill-opacity:1" />
       </g>
       <g
-         transform="matrix(0.4914429,0,0,0.4914429,224.286,626.45608)"
-         id="g4203-4">
+         id="g4203-4"
+         transform="matrix(0.4914429,0,0,0.4914429,224.286,626.45608)">
         <path
-           style="fill:#fc5652;fill-opacity:1"
+           id="path4183-9"
            d="m 131,679.27478 0,-40.08737 40.08741,0 40.08734,0 0,40.08737 0,40.08737 -40.08734,0 -40.08741,0 0,-40.08737 z"
-           id="path4183-9" />
+           style="fill:#fc5652;fill-opacity:1" />
         <path
-           style="fill:#e2e8e7;fill-opacity:1"
+           id="path4181-2"
            d="m 237.89966,679.27478 0,-40.08737 40.08737,0 40.08737,0 0,40.08737 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4181-2" />
+           style="fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="fill:#fc5652;fill-opacity:1"
+           id="path4179-2"
            d="m 344.79931,679.27478 0,-40.08737 40.08737,0 40.08736,0 0,40.08737 0,40.08737 -40.08736,0 -40.08737,0 0,-40.08737 z"
-           id="path4179-2" />
+           style="fill:#fc5652;fill-opacity:1" />
         <path
-           style="fill:#e2e8e7;fill-opacity:1"
+           id="path4177-7"
            d="m 451.69896,679.27478 0,-40.08737 40.08736,0 40.08737,0 0,40.08737 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4177-7" />
+           style="fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="fill:#f6c574;fill-opacity:1"
+           id="path4175-3"
            d="m 558.5986,679.27478 0,-40.08737 40.08737,0 40.08737,0 0,40.08737 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4175-3" />
+           style="fill:#f6c574;fill-opacity:1" />
         <path
-           style="fill:#f6c574;fill-opacity:1"
+           id="path4173-8"
            d="m 665.49825,679.27478 0,-40.08737 40.08736,0 40.08737,0 0,40.08737 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4173-8" />
+           style="fill:#f6c574;fill-opacity:1" />
         <path
-           style="fill:#e2e8e7;fill-opacity:1"
+           id="path4171-4"
            d="m 131,572.37513 0,-40.08736 40.08741,0 40.08734,0 0,40.08736 0,40.08737 -40.08734,0 -40.08741,0 0,-40.08737 z"
-           id="path4171-4" />
+           style="fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="fill:#00b39f;fill-opacity:1"
+           id="path4169-0"
            d="m 237.89966,572.37513 0,-40.08736 40.08737,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4169-0" />
+           style="fill:#00b39f;fill-opacity:1" />
         <path
-           style="fill:#00abcd;fill-opacity:1"
+           id="path4167-6"
            d="m 344.79931,572.37513 0,-40.08736 40.08737,0 40.08736,0 0,40.08736 0,40.08737 -40.08736,0 -40.08737,0 0,-40.08737 z"
-           id="path4167-6" />
+           style="fill:#00abcd;fill-opacity:1" />
         <path
-           style="fill:#00b39f;fill-opacity:1"
+           id="path4165-3"
            d="m 451.69896,572.37513 0,-40.08736 40.08736,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4165-3" />
+           style="fill:#00b39f;fill-opacity:1" />
         <path
-           style="fill:#00b39f;fill-opacity:1"
+           id="path4163-7"
            d="m 558.5986,572.37513 0,-40.08736 40.08737,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4163-7" />
+           style="fill:#00b39f;fill-opacity:1" />
         <path
-           style="fill:#e2e8e7;fill-opacity:1"
+           id="path4161-0"
            d="m 665.49825,572.37513 0,-40.08736 40.08736,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4161-0" />
+           style="fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="fill:#00abcd;fill-opacity:1"
+           id="path4159-3"
            d="m 131,465.47549 0,-40.08736 40.08741,0 40.08734,0 0,40.08736 0,40.08737 -40.08734,0 -40.08741,0 0,-40.08737 z"
-           id="path4159-3" />
+           style="fill:#00abcd;fill-opacity:1" />
         <path
-           style="fill:#00b3a0;fill-opacity:1"
+           id="path4157-7"
            d="m 237.89966,465.47549 0,-40.08736 40.08737,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4157-7" />
+           style="fill:#00b3a0;fill-opacity:1" />
         <path
-           style="fill:#f6c574;fill-opacity:1"
+           id="path4155-0"
            d="m 344.79931,465.47549 0,-40.08736 40.08737,0 40.08736,0 0,40.08736 0,40.08737 -40.08736,0 -40.08737,0 0,-40.08737 z"
-           id="path4155-0" />
+           style="fill:#f6c574;fill-opacity:1" />
         <path
-           style="fill:#e2e8e7;fill-opacity:1"
+           id="path4153-2"
            d="m 451.69896,465.47549 0,-40.08736 40.08736,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4153-2" />
+           style="fill:#e2e8e7;fill-opacity:1" />
         <path
-           style="fill:#fc5652;fill-opacity:1"
+           id="path4151-6"
            d="m 558.5986,465.47549 0,-40.08736 40.08737,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08737,0 0,-40.08737 z"
-           id="path4151-6" />
+           style="fill:#fc5652;fill-opacity:1" />
         <path
-           style="fill:#f6c574;fill-opacity:1"
+           id="path4147-2"
            d="m 665.49825,465.47549 0,-40.08736 40.08736,0 40.08737,0 0,40.08736 0,40.08737 -40.08737,0 -40.08736,0 0,-40.08737 z"
-           id="path4147-2" />
+           style="fill:#f6c574;fill-opacity:1" />
       </g>
     </g>
   </g>
