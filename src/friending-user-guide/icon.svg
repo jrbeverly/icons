@@ -34,8 +34,8 @@
      id="namedview34"
      showgrid="false"
      inkscape:zoom="1.064001"
-     inkscape:cx="23.122243"
-     inkscape:cy="68.583015"
+     inkscape:cx="88.495056"
+     inkscape:cy="142.06738"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,17 +182,29 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:#00a765;stroke-opacity:1"
        id="path3690" />
   </g>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot4222"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     transform="translate(567.66863,-132.75928)"><flowRegion
-       id="flowRegion4224"><rect
-         id="rect4226"
-         width="504.69876"
-         height="188.90959"
-         x="-484.02209"
-         y="338.11472"
-         style="letter-spacing:-0.03px;fill:#00a765;fill-opacity:1;" /></flowRegion><flowPara
-       id="flowPara4228"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;fill:#00a765;fill-opacity:1;">GUIDE</flowPara></flowRoot></svg>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4163"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 115.3366,237.20138 0,18.67675 -5.00488,0 q -0.61036,-2.07519 -1.34278,-3.49121 -3.10058,4.00391 -9.17968,4.00391 -6.44532,0 -10.59571,-4.49219 -4.15039,-4.5166 -4.15039,-12.20703 0,-7.4707 4.00391,-12.54883 4.02832,-5.10254 11.96289,-5.10254 5.95703,0 9.59472,3.02735 3.6377,3.02734 4.71192,8.59375 l -9.91211,0.97656 q -0.73242,-5.2002 -4.56543,-5.2002 -5.0293,0 -5.0293,9.57032 0,5.78613 1.61133,7.6416 1.61133,1.83105 3.90625,1.83105 1.85547,0 3.14942,-1.12304 1.31835,-1.12305 1.34277,-3.07618 l -5.51758,0 0,-7.08007 15.01465,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4165"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 147.72847,222.55294 0,22.07031 q 0,6.27441 -3.73535,9.0332 -3.71093,2.73438 -9.69238,2.73438 -6.29883,0 -10.13184,-2.63672 -3.80859,-2.63672 -3.80859,-8.59375 l 0,-22.60742 10.40039,0 0,21.41113 q 0,2.39258 1.00098,3.49121 1.02539,1.09863 3.24707,1.09863 1.85547,0 3.02734,-0.78125 1.19629,-0.80566 1.41602,-1.80664 0.24414,-1.00097 0.24414,-3.90625 l 0,-19.50683 8.03222,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4167"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 163.42113,222.55294 0,33.32519 -10.22949,0 0,-33.32519 10.22949,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4169"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 169.17727,255.87813 0,-33.32519 12.89062,0 q 8.39844,0 12.57324,4.98047 4.17481,4.98047 4.17481,11.52343 0,7.47071 -4.49219,12.15821 -4.46777,4.66308 -11.62109,4.66308 l -13.52539,0 z m 10.22949,-7.66601 2.66113,0 q 2.53906,0 4.27246,-2.46582 1.75781,-2.46582 1.75781,-6.71387 0,-3.63769 -1.5625,-6.27441 -1.53808,-2.63672 -4.46777,-2.63672 l -2.66113,0 0,18.09082 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4171"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:-0.03px;word-spacing:0px;fill:#00a765;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 228.20488,247.91915 0,7.95898 -25.07324,0 0,-33.32519 25.07324,0 0,7.69043 -15.03907,0 0,4.83398 12.15821,0 0,7.39746 -12.15821,0 0,5.44434 15.03907,0 z" />
+</svg>
