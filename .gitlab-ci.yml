@@ -3,7 +3,7 @@ image: alpine:latest
 convert:
   stage: build
   script:
-    - apk --no-cache add librsvg make
+    - apk --no-cache add librsvg make bash
     - make build
   only:
     - master
