@@ -1,1 +1,0 @@
-https://pixabay.com/en/boat-sea-ocean-water-blue-sky-1626516/ from JuralMin
