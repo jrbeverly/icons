@@ -1,12 +1,11 @@
-image: alpine:latest
+image: jrbeverly/rsvg:latest
 
 convert:
   stage: build
   script:
-    - apk --no-cache add librsvg make bash
-    - make build
+    - sh build/build.sh
   only:
     - master
   artifacts:
     paths:
-      - bin/*
+      - output/*
