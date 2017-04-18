@@ -1,0 +1,16 @@
+lightblue 00bcff
+green 78b900
+navy 5181b7
+lime 52b54b
+spanishblue 428bca
+black 000000
+desert c2b898
+blue 2c5aa0
+orange ff9100
+darkblue 1d2d44
+magenta FF00FF
+carmine E60026
+orchid DA70D6
+something 960018
+thistle D8BFD8
+indigo 4B0082

@@ -1,36 +1,50 @@
-<div align="center">
-  <img alt="jrbeverly.icons" src="./icon.png" width="200px" height="200px" />
-  <br/>
-  <h1>jrbeverly.icons</h1>
-</div>
+# jrbeverly.icons
+[![Build][build-badge]][build-link]
+[![License][license-badge]][license-link]
+[![Download][download-badge]][download-link]
 
-<p align="center">
-  A collection of scalable vector graphics (SVG) that define project and group icons.  
-</p>
-
-<div align="center">
-  <a href="/../commits/master"><img alt="Build Status" src="/../badges/master/build.svg"/></a>
-  <a href="/../blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000" /></a>
-  <a href="/../builds/artifacts/master/download?job=convert"><img alt="Artifacts" src="https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000"/></a>
-</div>
-<br/>
-
-# Abstract
+## Summary
 
 A collection of scalable vector graphics (SVG) that define project and group icons.  
 
-## GitLab CI
+## Build
 
-This project's scalable vector graphics (SVG) are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+You can build the icons using the tool `rsvg-convert`.  To build with `rsvg-convert`, you can do the following:
 
-```
-convert_png:
-  stage: build
-  script:
-    - apk --no-cache add librsvg make
-    - make build
-  artifacts:
-    paths:
-      - bin/*
+```console
+rsvg-convert -f svg icon.svg > output.svg
+rsvg-convert -f png icon.svg > output.png
 ```
 
+It is recommend to use the build scripts available in `build/`.   These scripts are used in the build pipeline, ensuring that all arguments and attributes are set for compilation of the icons.  These should be run from the root of the project directory.
+
+```console
+sh build/compile.sh
+```
+
+Or if running in an environment with `rsvg-convert` installed (such as a docker container), you can do the following:
+
+```console
+sh build/build.sh
+```
+
+### Docker Environment
+
+You can start a docker container with `rsvg-convert` installed to experiment with building the icons.  To build with `rsvg-convert`, you can do the following:
+
+```console
+sh build/run.sh
+```
+
+### GitLab CI
+
+This project's scalable vector graphics (SVG) are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml). 
+
+[build-badge]: /../badges/master/build.svg
+[build-link]: /../commits/master
+
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
+[license-link]: LICENSE
+
+[download-badge]: https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000
+[download-link]: /../builds/artifacts/master/download?job=convert
