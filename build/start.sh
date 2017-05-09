@@ -10,4 +10,4 @@ DIR="$(dirname $SCRIPT)"
 # Environment
 docker run --rm -it \
         -v $(dirname $DIR):/media \
-        jrbeverly/rsvg:baseimage sh build/build.sh
+        jrbeverly/rsvg:privileged sh

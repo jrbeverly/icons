@@ -4,9 +4,9 @@ set -ex
 # Parameters
 #
 # Parameters of the script.
+target=$1
 project=$2
 filename=$3
-target=$1
 
 # Variables
 #
