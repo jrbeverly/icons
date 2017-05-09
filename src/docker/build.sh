@@ -16,6 +16,7 @@ while read line
 do
   name="$(echo $line | cut -d' ' -f1)"
   color="$(echo $line | cut -d' ' -f2)"
+  echo "Generating icon '${name}'"
 
   sed "s/${default_color}/#${color}/g" icon.svg > $build_dir/${name}.svg
 done < colours.txt

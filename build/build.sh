@@ -4,14 +4,17 @@ set -ex
 # Variables
 #
 # Variables of the script.
-current="$(pwd)"
-target_dir="${current}/output"
-make_exc="$(pwd)/build/make.sh"
+SCRIPT=$(readlink -f "$0")
+DIR="$(dirname $SCRIPT)"
+ROOT_DIR="$(dirname $DIR)"
+OUTPUT_DIR="${ROOT_DIR}/output"
+MAKE="${DIR}/make.sh"
+
 
 # Rasterizing
 #
 # Rasterizes the scalable vector graphics.
-rm -rf $target_dir
+rm -rf $OUTPUT_DIR
 
 cd src/
 for dir in *
@@ -27,7 +30,7 @@ do
   do    
     cp $filename target/
   done
-  ( cd target/ && for filename in *.svg; do sh $make_exc $target_dir $dir $filename; done )
+  ( cd target/ && for filename in *.svg; do sh $MAKE $OUTPUT_DIR $dir $filename; done )
 
   rm -rf target/
   cd ..
