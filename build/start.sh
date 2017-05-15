@@ -7,7 +7,7 @@ set -ex
 SCRIPT=$(readlink -f "$0")
 DIR="$(dirname $SCRIPT)"
 
-# Environment
+# Docker run
 docker run --rm -it \
         -v $(dirname $DIR):/media \
         jrbeverly/rsvg:privileged sh

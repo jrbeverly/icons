@@ -46,5 +46,5 @@ This project's scalable vector graphics (SVG) are built by [GitLab CI](https://a
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
 [license-link]: LICENSE
 
-[download-badge]: https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000
+[download-badge]: https://img.shields.io/badge/artifacts-icons.png-green.svg?maxAge=2592000
 [download-link]: /../builds/artifacts/master/download?job=convert
