@@ -16,7 +16,7 @@ rsvg-convert -f svg icon.svg > output.svg
 rsvg-convert -f png icon.svg > output.png
 ```
 
-It is recommend to use the build scripts available in `build/`.   These scripts are used in the build pipeline, ensuring that all arguments and attributes are set for compilation of the icons.  These should be run from the root of the project directory.
+It is recommend to use the build scripts available in `build/` or in the local source directory. These scripts are used in the build pipeline, ensuring that all arguments and attributes are set for compilation of the icons.  These should be run from the root of the project directory.
 
 ```console
 sh build/compile.sh
