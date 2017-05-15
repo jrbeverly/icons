@@ -3,6 +3,8 @@
 [![License][license-badge]][license-link]
 [![Download][download-badge]][download-link]
 
+---
+
 ## Summary
 
 A collection of scalable vector graphics (SVG) that define project and group icons.  
@@ -16,7 +18,7 @@ rsvg-convert -f svg icon.svg > output.svg
 rsvg-convert -f png icon.svg > output.png
 ```
 
-It is recommend to use the build scripts available in `build/`.   These scripts are used in the build pipeline, ensuring that all arguments and attributes are set for compilation of the icons.  These should be run from the root of the project directory.
+It is recommend to use the build scripts available in `build/` or in the local source directory. These scripts are used in the build pipeline, ensuring that all arguments and attributes are set for compilation of the icons.  These should be run from the root of the project directory.
 
 ```console
 sh build/compile.sh
@@ -46,5 +48,5 @@ This project's scalable vector graphics (SVG) are built by [GitLab CI](https://a
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
 [license-link]: LICENSE
 
-[download-badge]: https://img.shields.io/badge/artifacts-svg.png-green.svg?maxAge=2592000
+[download-badge]: https://img.shields.io/badge/artifacts-icons.png-green.svg?maxAge=2592000
 [download-link]: /../builds/artifacts/master/download?job=convert
