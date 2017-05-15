@@ -15,8 +15,8 @@ MAKE="${DIR}/make.sh"
 # Rasterizes the scalable vector graphics.
 rm -rf $OUTPUT_DIR
 
-export OUTPUT_DIR
 cd "${ROOT_DIR}/src"
+export OUTPUT_DIR
 for dir in *
 do
   test -d "$dir" || continue
