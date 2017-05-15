@@ -3,6 +3,8 @@
 [![License][license-badge]][license-link]
 [![Download][download-badge]][download-link]
 
+---
+
 ## Summary
 
 A collection of scalable vector graphics (SVG) that define project and group icons.  
