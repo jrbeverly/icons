@@ -42,11 +42,11 @@ sh build/run.sh
 
 This project's scalable vector graphics (SVG) are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).  The output of the build process is available [here](/../builds/artifacts/master/download?job=convert).  The artifacts have an expiration period to ensure that old build artifacts are properly cleaned up.
 
-[build-badge]: /../badges/master/build.svg
-[build-link]: /../commits/master
+[build-badge]: https://gitlab.com/jrbeverly/jrbeverly.icons/badges/master/build.svg
+[build-link]: https://gitlab.com/jrbeverly/jrbeverly.icons/commits/master
 
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
 [license-link]: LICENSE
 
 [download-badge]: https://img.shields.io/badge/artifacts-icons.png-green.svg?maxAge=2592000
-[download-link]: /../builds/artifacts/master/download?job=convert
+[download-link]: https://gitlab.com/jrbeverly/jrbeverly.icons/builds/artifacts/master/download?job=convert
