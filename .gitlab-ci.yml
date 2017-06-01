@@ -1,4 +1,4 @@
-image: jrbeverly/rsvg:latest
+image: jrbeverly/rsvg:baseimage
 
 convert:
   stage: build
