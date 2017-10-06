@@ -1,12 +1,27 @@
 {
-    "name": "<name>",
+    "name": "Polaroids",
     "license": "Public Domain",
-    "url": "<url>",
+    "url": "https://thenounproject.com/term/polaroids/79283/",
     "author": {
-        "name": "<author>",
-        "url": "<author url>"
+        "name": "Margot Nadot",
+        "url": "https://thenounproject.com/Marc%20Nadue/"
     },
     "tags": [
-        "<tags>"
+        "Polaroids",
+        "Instant Photos",
+        "Instant Photo",
+        "Album Photo",
+        "Polaroid",
+        "Pictures",
+        "Picture",
+        "Pics",
+        "Pic",
+        "Photograph",
+        "Photo Album",
+        "Images",
+        "Image",
+        "Gallery",
+        "Album",
+        "Instant Photographs"
     ]
 }
