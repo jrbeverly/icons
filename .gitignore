@@ -3,3 +3,6 @@ bin/
 target/
 output/
 *.png
+
+# Documentation:
+docs/**/images/
