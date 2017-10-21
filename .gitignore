@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.db
 bin/
 target/
@@ -5,3 +6,13 @@ output/
 *.png
 doc/images/
 src/jrbeverly.practices/images/
+=======
+*.db
+bin/
+target/
+output/
+*.png
+
+# Documentation:
+docs/**/images/
+>>>>>>> develop
