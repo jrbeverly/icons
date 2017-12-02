@@ -1,9 +1,4 @@
 # jrbeverly.icons
-[![Build][build-badge]][build-link]
-[![License][license-badge]][license-link]
-[![Download][download-badge]][download-link]
-
----
 
 ## Summary
 
@@ -38,15 +33,8 @@ You can start a docker container with `rsvg-convert` installed to experiment wit
 sh build/run.sh
 ```
 
-### GitLab CI
+## Acknowledgements
 
-This project's scalable vector graphics (SVG) are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).  The output of the build process is available [here](/../builds/artifacts/master/download?job=convert).  The artifacts have an expiration period to ensure that old build artifacts are properly cleaned up.
+The project icon is retrieved from [the Noun Project](docs/icon/icon.json). The original source material has been altered for the purposes of the project. The icon is used under the terms of the [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
 
-[build-badge]: https://gitlab.com/jrbeverly/jrbeverly.icons/badges/master/build.svg
-[build-link]: https://gitlab.com/jrbeverly/jrbeverly.icons/commits/master
-
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
-[license-link]: LICENSE
-
-[download-badge]: https://img.shields.io/badge/artifacts-icons.png-green.svg?maxAge=2592000
-[download-link]: https://gitlab.com/jrbeverly/jrbeverly.icons/builds/artifacts/master/download?job=convert
+The project icon is by [Five by Five from the Noun Project](https://thenounproject.com/term/startup/38246/).
