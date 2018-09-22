@@ -1,13 +1,14 @@
 #!/bin/sh
-set -ex
+set -e
 
 # Variables
 #
 # Build variables for directories.
-SCRIPT=$(readlink -f "$0")
-DIR="$(dirname $SCRIPT)"
+DIR="$(dirname "$(dirname "$(readlink -f "$0")")")"
 
+echo $DIR
 # Environment
-docker run --rm -it \
-        -v $(dirname $DIR):/media \
+docker run --rm \
+        -v "${DIR}":/media \
+        --workdir=/media \
         jrbeverly/rsvg:baseimage sh build/build.sh
