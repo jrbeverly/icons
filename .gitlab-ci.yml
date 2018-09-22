@@ -8,5 +8,5 @@ convert:
     - master
   artifacts:
     paths:
-      - output/*
+      - dist/
     expire_in: 4 weeks
