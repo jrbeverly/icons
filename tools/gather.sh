@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 # Variables
 DIR="$(dirname "$(readlink -f "$0")")"
@@ -24,6 +23,7 @@ do
     project="${DIR_SRC}/${dirname}/"
     mkdir -p "${project}"
     cp docs/icon/icon.svg "${project}"/icon.svg || true
+    cp docs/icon/icon.json "${project}"/icon.json || true
 
     cd $DIR_ARTIFACTS 
 done < "${FILE_REPO}"
