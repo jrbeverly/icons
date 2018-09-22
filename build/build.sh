@@ -1,8 +1,6 @@
 #!/bin/sh
 set -e
 
-echo "HI"
-exit
 # Variables
 #
 # Variables of the script.
@@ -15,6 +13,7 @@ OUTPUT_DIR="${ROOT_DIR}/dist"
 #
 # Rasterizes the scalable vector graphics.
 rm -rf $OUTPUT_DIR
+mkdir -p $OUTPUT_DIR
 
 cd "${ROOT_DIR}/src"
 for dir in *
