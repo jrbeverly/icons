@@ -1,6 +1,6 @@
 name: Create Default Labels
 on:
-  issues
+  issues:
   push:
     paths:
       - .github/workflows/github.labels.yml
