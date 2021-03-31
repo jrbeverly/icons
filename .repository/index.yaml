@@ -1,0 +1,19 @@
+slug: project-icons
+description: A collection of scalable vector graphics (SVG) that define project and group icons.
+project: jrbeverly
+namespace: archive
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "svg",
+    "rsvg",
+    "rasterization",
+    "png",
+    "organization",
+    "gitlab"
+  ]
